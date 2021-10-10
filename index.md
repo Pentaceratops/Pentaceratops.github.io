@@ -2,9 +2,14 @@
 <html lang="zh-cn">
   <head>
     <mate charset="ulf-8"/>
-    <title>春色伊始</title>
+    <title>窗</title>
   </head>
   <body>
+    <div>
+    <p>  木架夯土，乌壁院落，碉楼毡包，皆以窗窥视世界，自然，世界也自窗吸收接纳他们。不过，眼前这座漏窗，平淡且无趣，朴拙似厚重，可能会让你失望而归。但又或许，在从侧面一览其内景之后，你也会发现些什么，勾起一些你的思考。</p>
+    <img src="https://tse1-mm.cn.bing.net/th/id/R-C.b4b09d9cf912cb5a13adae9efdda82e1?rik=lZiyDhTnxXi5%2fQ&riu=http%3a%2f%2fwww.pp3.cn%2fuploads%2f201404%2f1395971331906.jpg&ehk=Z2cmy8t30gMEpZP5ZcoNcPaL62mvbElQ3Arrq4HUgug%3d&risl=&pid=ImgRaw&r=0" width="25%">
+    <img src="https://pic3.zhimg.com/v2-0c9a30b94b706885eb1e1f609bce5e89_r.jpg?source=1940ef5c" width="23%">
+    <img src="https://tse1-mm.cn.bing.net/th/id/R-C.df1919116a5012653a12e39a44ba1739?rik=1Wc48%2f1axYQgMA&riu=http%3a%2f%2f222.186.12.239%3a10010%2fkahmb_140329%2f003.jpg&ehk=GTyIUrEu8nYmInLH3avAq8qEVVDgSaftqHzQtZXGGTs%3d&risl=&pid=ImgRaw&r=0" width="20%">
     <p>人生路漫漫，我才经历了其开始时的短暂美好，因是春色伊始。但我也不能预测气候，正如近日中国的天气一般，北方寒潮来袭，而南方热浪滚滚。这也才十月初，我的家乡甚至飘起了雪花。于是，这刚冒出绿芽的春色，不知道它将是姹紫嫣红还是败絮残柳。但愿其顺遂自然。
     <p>关于我的一首打油诗</p>
     <div>
