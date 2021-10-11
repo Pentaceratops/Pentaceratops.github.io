@@ -69,6 +69,5 @@
     <img src="https://img.zcool.cn/community/01f5ed5541e07e0000011541c85ec6.jpg@1280w_1l_2o_100sh.jpg" width="19%">
     <img src="https://tse1-mm.cn.bing.net/th/id/R-C.35b3654e85f2b344043a0938e0a95039?rik=oybLFe89cpHcgw&riu=http%3a%2f%2fwww.desktx.com%2fd%2ffile%2fwallpaper%2fcomic%2f20160920%2f6e11849725afcb98c5e239a40c9f0619.jpg&ehk=kUoWGPkNhztrIMqSfetVVrfKW2W8q1C9T08MFtaSLJs%3d&risl=&pid=ImgRaw&r=0" width="22%">
     <img src="https://tse1-mm.cn.bing.net/th/id/R-C.65015586b5df683da20515fdef5eba19?rik=EabK6ZUtq6H5AA&riu=http%3a%2f%2fwww.desktx.com%2fd%2ffile%2fwallpaper%2fcomic%2f20160920%2fcd613a4352b92c34710832f6aca77855.jpg&ehk=DTmIKRo9J8p6g3ULp%2bl%2fNzHwbjp20Pd0cw%2fi2sjhjR8%3d&risl=&pid=ImgRaw&r=0" width="24%">
-    <script src="javascript/103.js"></script>
   </body>
 </html>
