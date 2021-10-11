@@ -49,11 +49,11 @@
       <li><a href="https://www.bilibili.com/bangumi/media/md28228775/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1">名侦探柯南</a></li>
       <li><a href="https://www.bilibili.com/bangumi/media/md427/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1">某科学的超电磁炮</a><li>
     </ul>
-    <p>备注：没有看过魔禁，并且不是太想看。</p>
-    <p>同时，也是漫威粉，大爱奇异博士和钢铁侠。</p>
+    <p id="we">备注：没有看过魔禁，并且不是太想看。</p>
+    <p id="we">同时，也是漫威粉，大爱奇异博士和钢铁侠。</p>
     <p>此外，追剧也是一大乐趣。   就放几张带loge的剧照。</p>
-    <img src="https://bkimg.cdn.bcebos.com/pic/8cb1cb13495409236e0bb5db9958d109b3de4931?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto" width="25%">
-    <img src="https://n.sinaimg.cn/ent/transform/763/w630h933/20190329/2LlW-huxwryv7241596.jpg" width="26%">
+    <img src="https://tse1-mm.cn.bing.net/th/id/R-C.fe615d4aaf02941c5e0b3c0fbfbc5659?rik=9Qq0mkRaVSBGSg&riu=http%3a%2f%2fupload-images.jianshu.io%2fupload_images%2f4181232-fac46436ad6875cc.jpg&ehk=v2kO6RKwWIeyd6F4T75nND60OAUrZzXQ6WJXkMFhG50%3d&risl=&pid=ImgRaw&r=0" width="25%">
+    <img src="https://n.sinaimg.cn/ent/transform/763/w630h933/20190329/2LlW-huxwryv7241596.jpg" width="25%">
     <img src="http://img4.cache.netease.com/ent/2016/3/17/20160317121654e4e4e.jpg" width="28%">
     <img src="https://tse1-mm.cn.bing.net/th/id/R-C.698f6109f45311fa715d9d824bed9d77?rik=q%2fNIVpjBvJOoLA&riu=http%3a%2f%2fpic.baike.soso.com%2fp%2f20130531%2f20130531101210-956858859.jpg&ehk=v2JCYccZtxz8dl9V3CV0vsNV169CqCBh2plM97uZJoQ%3d&risl=&pid=ImgRaw&r=0" width="25%">
     <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.iUPHnTZrefyTTotAD1Xx7gHaJ3?pid=ImgDet&rs=1" width="27%">
@@ -69,5 +69,6 @@
     <img src="https://img.zcool.cn/community/01f5ed5541e07e0000011541c85ec6.jpg@1280w_1l_2o_100sh.jpg" width="19%">
     <img src="https://tse1-mm.cn.bing.net/th/id/R-C.35b3654e85f2b344043a0938e0a95039?rik=oybLFe89cpHcgw&riu=http%3a%2f%2fwww.desktx.com%2fd%2ffile%2fwallpaper%2fcomic%2f20160920%2f6e11849725afcb98c5e239a40c9f0619.jpg&ehk=kUoWGPkNhztrIMqSfetVVrfKW2W8q1C9T08MFtaSLJs%3d&risl=&pid=ImgRaw&r=0" width="22%">
     <img src="https://tse1-mm.cn.bing.net/th/id/R-C.65015586b5df683da20515fdef5eba19?rik=EabK6ZUtq6H5AA&riu=http%3a%2f%2fwww.desktx.com%2fd%2ffile%2fwallpaper%2fcomic%2f20160920%2fcd613a4352b92c34710832f6aca77855.jpg&ehk=DTmIKRo9J8p6g3ULp%2bl%2fNzHwbjp20Pd0cw%2fi2sjhjR8%3d&risl=&pid=ImgRaw&r=0" width="24%">
+    <script src="javascript/103.js"></script>
   </body>
 </html>
